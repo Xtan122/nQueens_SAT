@@ -2,3 +2,7 @@
 
 binary
 binomial
+sequential counter
+commander
+
+NSC 
